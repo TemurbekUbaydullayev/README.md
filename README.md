@@ -1,3 +1,3 @@
 # README.md
-#My personal repository\n
+#My personal repository
 #I am software engineer
