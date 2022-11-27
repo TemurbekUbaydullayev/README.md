@@ -4,7 +4,7 @@
 
 - 🌱 I am a .Net developer
 - 📫 How to reach me: [telegram](https://t.me/ajibdirbari), [linkedin](https://www.linkedin.com/in/temurbek-ubaydullayev-388b1a227/)
-- ⚙️ My specialty : `c#`, `.net`, `asp.net`, `postgresql`, `entity framework`, 
+- ⚙️ My specialty : `c#`, `.net`, `asp.net`, 
 
 <br>
 <br>
