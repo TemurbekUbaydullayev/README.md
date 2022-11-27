@@ -5,9 +5,10 @@
 - 🌱 I am a .Net developer
 - 📫 How to reach me: [telegram](https://t.me/ajibdirbari), [linkedin](https://www.linkedin.com/in/temurbek-ubaydullayev-388b1a227/)
 - ⚙️ My specialty : `c#`, `.net`, `asp.net`, `postgresql`, `entity framework`, 
-<br>
 
 <br>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
@@ -37,18 +38,18 @@
       width="40" height="40" /> </a> </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxamadzoidov&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Maxamadzoidov" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=TemurbekUbaydullayev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="TemurbekUbaydullayev" 
     bg_color=#808080/></p>
 <br>
 
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Maxamadzoidov&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=TemurbekUbaydullayev&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxamadzoidov&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TemurbekUbaydullayev&theme=algolia&hide_border=true">
 
 </div>
 
-[Maxamadzoidov](https://github.com/Maxamadzoidov)
+[TemurbekUbaydullayev](https://github.com/TemurbekUbaydullayev)
